@@ -15,3 +15,12 @@ my questions / to-study lists are =
 - [ ] learn database and how to connect to database
 - [ ] using API and/or Framework
 - [x] (kinda) using big data and read to c++
+
+
+To read
+* [Learn How To Compile a C++ Program](https://medium.com/better-programming/learn-how-to-compile-a-c-program-382c4c690bdc)
+* [How To Document and Organize Your C++ Code](http://www.edparrish.net/common/cppdoc.html)
+* [Dev-C++ Tutorial For CSCI-2025 students (Maintained by Jaime Niño)](http://cs.uno.edu/~jaime/Courses/2025/devCpp2025Instructions.html)
+* [How to logically organize source files in C++ (closed)](https://stackoverflow.com/questions/16139424/how-to-logically-organize-source-files-in-c)
+==========================
+* [Learn C++ Programming](https://www.programiz.com/cpp-programming)
